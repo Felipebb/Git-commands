@@ -6,7 +6,7 @@ Comandos básicos para quem desenvolve com controle de versão através do Git.
 * git clone url
 
 Faz o download do projeto para o seu computador, preferencialmente criar uma pasta para guardar apenas o projeto.
-As urls como exemplo podem ser de projetos do github ou Team Foundation Service, enfim qualquer plataforma onde seja possivel o clone através da Url.
+As urls como exemplo podem ser de projetos do github ou Team Foundation Service, enfim qualquer plataforma onde seja possivel o clone do projeto através da Url.
 
 * git add .
 
