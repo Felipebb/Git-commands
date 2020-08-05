@@ -1,7 +1,7 @@
 # Git-Commands
 Comandos básicos para quem desenvolve com controle de versão através do Git.
 
-# 📝Comandos Git básicos
+## 📝Comandos Git básicos
 
 * git clone url
 
